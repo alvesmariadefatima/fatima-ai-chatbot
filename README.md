@@ -92,9 +92,4 @@ Este projeto tem como objetivo praticar e consolidar conhecimentos em:
 
 ---
 
-## 🌸 Sobre a Jornada Python
-
-O **FátimaAI Chatbot** faz parte da **Jornada Python da Hashtag Treinamentos**, uma trilha prática focada no desenvolvimento de projetos reais para aprendizado e evolução na linguagem Python.
----
-
 ⭐ Se você gostou do projeto, não esqueça de deixar uma estrela no repositório!
